@@ -1,0 +1,102 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Om 'n eenvoudige elektriese skakelaar te maak</title>
+  <metadata>
+  <md:content-id>m21001</md:content-id><md:title>Om 'n eenvoudige elektriese skakelaar te maak</md:title>
+  <md:abstract/>
+  <md:uuid>fe97eac1-1bce-4c0a-bfb7-017581c5667e</md:uuid>
+</metadata>
+
+<content>
+    <section id="id4819091">
+      <title>NATUURWETENSKAPPE</title>
+      <para id="para-id4819091">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id17979284">
+      <title>Graad 4</title>
+      <para id="para-id17979284">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id15290491">
+      <title>ENERGIE EN VERANDERING</title>
+      <para id="para-id15290491">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id17440657">
+      <title>Module 34</title>
+      <para id="para-id17440657">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id16861245">
+      <title>‘N EENVOUDIGE ELEKTRIESE SKAKELAAR</title>
+      <para id="id16669130"/>
+      <section id="id15892284">
+        <title>Aktiwiteit:</title>
+        <para id="para-id15892284">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id17719742">
+        <title>Om ‘n eenvoudige elektriese skakelaar te maak </title>
+        <para id="para-id17719742">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id17913017">
+        <title>[LU 3.2]</title>
+        <figure id="id5821001">
+          <media id="id5821001_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-25c6.png" id="id5821001__onlineimage" height="276" width="633"/>
+          </media>
+        </figure>
+        <para id="id7528207">Jy sal die volgende nodig hê:</para>
+        <list id="id7528212" list-type="bulleted">
+          <item>‘n klein blokkie hout: 8 cm x 4 cm x 1 cm</item>
+          <item>‘n skuifspeld</item>
+          <item>twee drukspykers</item>
+          <item>drie stukkies draad met plastiekomhulsel, 25 cm lank</item>
+          <item>‘n 4,5 volt gloeilampie in ‘n houer</item>
+          <item>‘n 4,5 volt battery</item>
+          <item>‘n skroewedraaier</item>
+        </list>
+        <list id="id14163045" list-type="enumerated" number-style="arabic">
+          <item>Maak ‘n stukkie draad aan elke drukspyker vas. Druk een drukspyker in die plat kant van die stukkie hout vas. Druk die tweede drukspyker deur die ogie van die skuifspeld en druk dit ook in die hout vas. Die drukspykers moet ongeveer 1 cm uit mekaar wees.</item>
+          <item>Maak seker dat die skuifspeld in plek gehou word deur die drukspyker, maar dit moet nog steeds kan draai om die ander drukspyker te raak. Dit is die skakelaar.</item>
+          <item>Om die skakelaar te toets, konnekteer die ander punt van die een draadjie aan die een kant van die battery. Konnekteer die derde draadjie aan die ander kant van die battery en aan die gloeilamphouertjie.</item>
+          <item>Konnekteer die vry draad op die skakelaar aan die vry skroef aan die gloeilamphouer.</item>
+        </list>
+        <para id="id16723620"/>
+        <list id="id4933225" list-type="enumerated" number-style="arabic">
+          <item>Wanneer jy die skuifspeld draai sodat dit altwee drukspykers raak, sal die gloeilampie brand. As jy dit weer wegdraai, sal dit ophou brand.</item>
+        </list>
+        <figure id="id5851685">
+          <media id="id5851685_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics2-a3c8.png" id="id5851685__onlineimage" height="228" width="250"/>
+          </media>
+        </figure>
+        <para id="id6233480">Onthou: Moet nooit aan oop elektriese drade raak nie!</para>
+        <para id="id13848501"> Kleur alles wat elektrisiteit gebruik rooi in.</para>
+        <figure id="id17637518">
+          <media id="id17637518_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics3-fd94.png" id="id17637518__onlineimage" height="614" width="634"/>
+          </media>
+        </figure>
+        <para id="id7380918"/>
+      </section>
+    </section>
+    <section id="id14604750">
+      <title>Assessering</title>
+      <para id="id5157590"><emphasis effect="bold">LEERUITKOMS 3:</emphasis><emphasis effect="bold"> WETENSKAP, DIE SAMELEWING EN DIE OMGEWING</emphasis>Die leerder is in staat om begrip van die onderlinge verband tussen wetenskap en tegnologie, die samelewing en die omgewing te toon.</para>
+      <para id="id17628782">Assesseringstandaard</para>
+      <para id="id17157041">Dis duidelik wanneer die leerder</para>
+      <list id="id5224570" list-type="bulleted">
+        <item>die impak van wetenskap en tegnologie verstaan.</item>
+      </list>
+      <para id="id7671906"/>
+    </section>
+  </content>
+</document>
